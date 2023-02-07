@@ -1,7 +1,7 @@
 # System programming Lab tutorial
 This repository contains different Lab session code practies in college. we practied some of the main system programming concept such as:
 - Files Input Output operations:-
-    - `#int open (const char* Path, int flags [, int mode ]);`
+    - `int open (const char* Path, int flags [, int mode ]);`
     - `int creat(char *filename, mode_t mode)`
     - `int close(int fd);`
     - `size_t read (int fd, void* buf, size_t cnt);`
